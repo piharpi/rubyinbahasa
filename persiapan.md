@@ -13,7 +13,7 @@ Anda bisa menggunakan text editor kesayangan anda, namun jika anda tidak memilik
 
 ## Terminal
 
-Setiap sistem operasi 
+Ada beberapa jenis software terminal, yaitu Tmux, Bash, Git Bash, Cmder, Hyper, XTerm, dan sebagainya, gunakan terminal kesukaan anda atau jika anda menggunakan sistem operasi Windows saya sarankan untuk menggunakan Git Bash.
 
 ## Ruby
 
