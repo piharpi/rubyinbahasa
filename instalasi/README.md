@@ -1,2 +1,2 @@
-# Instalasi
+# Instalasi Ruby
 

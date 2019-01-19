@@ -2,7 +2,7 @@
 description: >-
   Buku ini ditulis Choirul Mahendrata Harpi, disampaikan dengan menggunakan
   Bahasa Indonesia, buku ini bersifat open source yang berarti siapapun dapat
-  berkontribusi untuk mengimprovisasikan buku ini.
+  berkontribusi untuk memperbaiki buku ini.
 ---
 
 # Pendahuluan
@@ -27,7 +27,6 @@ Bantu memperbaiki buku ini untuk orang lain: Setiap kali menemukan sesuatu yang 
 
 #### Daftar Kontributor 
 
-[@piharpi](https://github.com/piharpi) Choirul Mahendrata Harpi
-
-
+[@piharpi](https://github.com/piharpi) Choirul Mahendrata Harpi  
+[@blubme](https://github.com/blubme) Fahmi Irsyad Khairi
 
