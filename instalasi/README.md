@@ -1,2 +1,0 @@
-# Instalasi Ruby
-
