@@ -13,11 +13,13 @@ Buku ini bisa dibaca semua kalangan yang ingin mempelajari bahasa pemprograman R
 
 ## Aturan membaca buku ini.
 
-Bacalah buku ini sesuai dengan kemampuan anda, disarankan membaca setidaknya satu halaman perhari, buku ini tidak sekedar dibaca namun juga dipraktikan dan lakukan latihan soal yang sudah disediakan. 
+**Bacalah** buku ini sesuai dengan kemampuan anda, disarankan membaca setidaknya satu halaman perhari, buku ini tidak sekedar dibaca namun juga dipraktikan dan lakukan latihan soal yang sudah disediakan. 
 
-**Tidak** merasa tahu saat membaca, sehingga tidak melewatkan materi tertentu, disarankan membaca buku ini dari bagian awal hingga akhir halaman, **tidak** meloncat-loncat, dikarenakan masing-masing halaman saling berkaitan dengan halaman lainya, juga agar tidak terlewat dengan suatu materi.
+**Tidak** merasa tahu saat membaca, sehingga tidak melewatkan materi tertentu, disarankan membaca buku ini dari bagian awal hingga akhir halaman, tidak meloncat-loncat, dikarenakan masing-masing halaman saling berkaitan dengan halaman lainya, juga tidak terlewat dengan suatu materi.
 
-## Apa itu Bahasa Pemprograman Ruby ?
+**Namun,** bila mana anda benar-benar memang sudah familiar dengan bagian tertentu anda bisa langsung melewatkan bagian tersebut, namun anda harus kembali lagi kemateri tersebut, bila mana dibutuhkan.
+
+**Buat catatan** tentang pertanyaan apa pun yang muncul, hal-hal yang tidak anda pahami, dan semua hal lain yang menurut anda menarik atau penting.
 
 
 
