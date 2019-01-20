@@ -9,11 +9,11 @@ description: >-
 
 ## Text Editor
 
-Anda bisa menggunakan text editor kesayangan anda, namun jika anda tidak memiliki opsi saya merekomendasikan beberapa text editor yaitu [sublime](https://www.sublimetext.com/), [vscode](https://code.visualstudio.com/), [atom](https://atom.io/), [rubymine](https://www.jetbrains.com/ruby/) atau [VIM](https://www.vim.org/), semua text editor yang saya sarankan tersedia disemua sistem operasi\(Linux, Windows, MacOS\) tapi saya menyarankan menggunakan **vscode** jika anda bingung.
+Anda bisa menggunakan text editor kesayangan anda, namun jika anda tidak memiliki opsi saya merekomendasikan beberapa text editor yaitu [sublime](https://www.sublimetext.com/), [vscode](https://code.visualstudio.com/), [atom](https://atom.io/), [rubymine](https://www.jetbrains.com/ruby/) atau [VIM](https://www.vim.org/), semua text editor yang tersebut tersedia disemua sistem operasi\(Linux, Windows, MacOS\) tapi saya menyarankan menggunakan **vscode** jika anda bingung.
 
 ## Terminal
 
-Ada beberapa jenis software terminal, yaitu Tmux, Bash, Git Bash, Cmder, Hyper, XTerm, dan sebagainya, gunakan terminal kesukaan anda atau jika anda menggunakan sistem operasi Windows saya sarankan untuk menggunakan Git Bash.
+Ada beberapa jenis software terminal, yaitu [Tmux](https://github.com/tmux/tmux/wiki), [Bash](https://www.gnu.org/software/bash/), [Git Bash](https://git-scm.com/downloads), [Cmder](http://cmder.net/), [Hyper](https://hyper.is/), [XTerm](https://invisible-island.net/xterm/), dan sebagainya, gunakan terminal kesukaan anda, atau jika anda menggunakan sistem operasi Windows saya sarankan untuk menggunakan Git Bash atau Cmder.
 
 ## Ruby
 
