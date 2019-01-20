@@ -21,7 +21,7 @@ Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika anda mempunyai 
 
 {% tabs %}
 {% tab title="Ubuntu" %}
-Pertama, install terlebih dahulu dependency
+Pertama, install terlebih dahulu dependency, ini adalah bagian-bagian yang dibutuhkan untuk melanjutkan instalasi selanjutnnya.
 
 ```text
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
@@ -52,7 +52,7 @@ echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
 exec $SHELL
 ```
 
-Nah sekarang baru kita install rubynya. Kita menggunakan versi 2.5.3, Caranya sebagai berikut
+Sekarang kita menginstall Ruby. Kita menggunakan versi 2.5.3, Caranya sebagai berikut
 
 ```text
 rbenv install 2.5.3
@@ -97,7 +97,15 @@ Oke, instalasi ruby di Ubuntu selesai dan anda bisa melanjutkan kebagian selanju
 {% endtab %}
 
 {% tab title="Windows" %}
+Ada sebuah alat bantu yang membantu Anda memasang Ruby : [RubyInstaller](https://rubyinstaller.org/). Ini memberikan apapun yang Anda butuhkan untuk memasang Ruby _development environment_ sepenuhnya pada Windows.
 
+Unduh Ruby installer [disini](https://rubyinstaller.org/downloads/) yang bertuliskan **WITH DEVKIT** versi 2.5.3 dan sesuaikan sistem anda 64/32 bit, jalankan instalasi tersebut, pilih _language_ dan centang _agree to the terms,_ jika terdapat beberapa checkbox centang sebagian saja : 
+
+* [ ] _Install Td/Tk support_
+* [x] _Add Ruby executables to your PATH_
+* [x] _Associate .rb and .rbw files with this Ruby installation_
+
+Setelah itu klik _"install"_ dan tunggu beberapa menit, dan Selesai !
 {% endtab %}
 {% endtabs %}
 
