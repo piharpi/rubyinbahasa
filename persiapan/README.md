@@ -21,7 +21,7 @@ Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika anda mempunyai 
 
 {% tabs %}
 {% tab title="Ubuntu" %}
-Pertama, install terlebih dahulu dependency, ini adalah bagian-bagian yang dibutuhkan untuk melanjutkan instalasi selanjutnnya.
+Pertama, install terlebih dahulu dependency, ini adalah bagian-bagian yang dibutuhkan untuk melanjutkan instalasi berikutnya.
 
 ```text
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
