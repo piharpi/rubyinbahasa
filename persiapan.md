@@ -17,22 +17,24 @@ Ada beberapa jenis software terminal, yaitu [Tmux](https://github.com/tmux/tmux/
 
 ## Ruby
 
-Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.2` jika anda mempunyai cara tersendiri untuk melakukan instalasi ruby, anda dapat mengikuti cara anda sendiri. Namun, jika tidak anda juga dapat mengikuti cara instalasi berikut ini sesuai dengan sistem operasi yang anda gunakan. 
+Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika anda mempunyai cara tersendiri untuk melakukan instalasi ruby, anda dapat mengikuti cara anda sendiri. Namun, jika tidak anda juga dapat mengikuti cara instalasi berikut ini sesuai dengan sistem operasi yang anda gunakan. 
 
 {% tabs %}
-{% tab title="Linux" %}
-#### Instalasi pada Ubuntu
-
-Pertama, instal dahulu dependency yang dibutuhkan
+{% tab title="Ubuntu" %}
+Pertama, instal terlebih dahulu dependency
 
 ```text
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+
 sudo apt-get update
-sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev nodejs yarn
 ```
 
-Kemudian kita akan menggunakan rbenv untuk menginstal ruby. rbenv ini tools yang dibuat khusus untuk menginstal ruby dan manajemen versi ruby di komputer kita. Dengan rbenv ini kita bisa memiliki lebih dari satu versi yang terinstall.
+Selanjutnya, kita akan menggunakan rbenv untuk menginstal ruby. rbenv ini alat yang dibuat khusus untuk menginstal ruby dan manajemen versi ruby di komputer kita. Dengan adanya rbenv ini kita bisa memiliki lebih dari satu versi ruby yang terinstall.
 
-Langkah pertama adalah install rbenv itu sendiri. Jalankan perintah berikut
+Langkah pertama adalah instalasi rbenv itu sendiri. Jalankan perintah berikut ini.
 
 ```text
 cd
@@ -42,7 +44,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 exec $SHELL
 ```
 
-Selanjutnya install ruby-build. rbenv membutuhkan ruby-build ini untuk melakukan build terhadap source ruby sehingga kita tinggal enak aja menginstallnya. Jalankan perintah di bawah untuk menginstalnya.
+Setelah itu, install ruby-build. rbenv membutuhkan ruby-build ini untuk melakukan build terhadap source ruby. Jalankan perintah di bawah untuk menginstalnya.
 
 ```text
 git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
@@ -50,18 +52,17 @@ echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
 exec $SHELL
 ```
 
-Nah sekarang baru kita instal rubynya. Kita gunakan versi yang terbaru yaitu 2.5.2.   
-Caranya seperti ini
+Nah sekarang baru kita instal rubynya. Kita menggunakan versi 2.5.3, Caranya sebagai berikut
 
 ```text
-rbenv install 2.5.2
-rbenv global 2.5.2
+rbenv install 2.5.3
+rbenv global 2.5.3
 ruby -v
 ```
 
-Saat menjalankan perintah ruby -v maka di terminal harusnya muncul informasi yang menandakan kalau ruby yang terinstal adalah versi 2.5.2
+Saat menjalankan perintah ruby -v maka diterminal muncul informasi yang menandakan bahwa ruby yang terinstal adalah versi 2.5.3, dan jika muncul berarti instalasi ruby berhasil dikomputer anda.
 
-Oke, instalasi ruby di Linux selesai dan anda bisa melanjutkan kebab selanjutnya
+Oke, instalasi ruby di Ubuntu selesai dan anda bisa melanjutkan kebagian selanjutnya.
 {% endtab %}
 
 {% tab title="MacOs" %}
