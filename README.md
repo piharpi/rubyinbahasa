@@ -11,15 +11,15 @@ description: >-
 
 Ruby adalah bahasa pemrograman open source dinamis berbasis skrip yang berorientasi objek. Tujuan dari ruby adalah menggabungkan kelebihan dari semua bahasa-bahasa pemrograman skrip yang ada di dunia.
 
-Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, Ruby termasuk high level language sintak mudah dimengerti oleh manusia, produktif, sintaks Ruby elegan, natural, dan mudah dibaca dan ditulis. Banyak software yang menggunakan bahasa ini, [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanya sebagain kecil saja.
+Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, Ruby termasuk high level language sintak mudah dimengerti oleh manusia, produktif, sintaks Ruby elegan, natural, dan mudah dibaca dan ditulis. Banyak software yang menggunakan ruby, [Bukalapak](https://bukalapak.com), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanya sebagain kecil saja.
 
 ## Untuk siapa buku ini ?
 
-Buku untuk dibaca semua kalangan yang ingin mempelajari bahasa pemprograman Ruby baik yang baru memulai atau yang sudah mengerti dan ingin menambah wawasan tentang bahasa pemprograman Ruby.
+Buku ini bisa dibaca semua kalangan yang ingin mempelajari bahasa pemprograman Ruby baik yang baru memulai atau yang sudah mengerti dan ingin menambah wawasan tentang bahasa pemprograman Ruby.
 
 ## Aturan membaca buku ini
 
-Agar anda dapat menyelesaikan buku ini dengan baik, sebaiknya anda mengikuti aturan dibawah ini, namun jika dirasa anda memiliki cara tersendiri dalam menyelesaikan buku, silahkan menggunakan cara anda sendiri, berikut beberapa aturan.
+Agar anda dapat menyelesaikan buku ini dengan baik, sebaiknya anda mengikuti aturan dibawah ini, namun jika dirasa anda memiliki cara tersendiri dalam menyelesaikan buku, dipersilahkan menggunakan cara anda sendiri, berikut beberapa aturan.
 
 * **Bacalah** buku ini sesuai dengan kemampuan anda, disarankan membaca setidaknya satu halaman perhari, buku ini tidak sekedar dibaca namun juga dipraktikan dan lakukan latihan soal yang sudah disediakan. 
 * **Tidak** merasa tahu saat membaca, sehingga tidak melewatkan materi tertentu, disarankan membaca buku ini dari bagian awal hingga akhir halaman, tidak meloncat-loncat, dikarenakan setiap halaman saling berkaitan dengan halaman lainya, juga tidak terlewat dengan suatu materi.
