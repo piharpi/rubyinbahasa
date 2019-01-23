@@ -2,7 +2,7 @@
 
 Interactive Ruby juga biasa dipanggil irb terinstall otomatis dari ruby, fungsinya sebagai area menjalankan kode ruby tanpa harus menyimpan kedalam sebuah file atau biasa dikenal dengan sandbox / playground, sehingga kita dapat langsung menjalankan kode ruby yang kita tullis, biasanya irb ini dimanfaatkan untuk eksperiment atau hanya mencoba beberapa baris kode ruby saja.
 
-### Cara menjalankan irb
+## Cara menjalankan irb
 
 Jalankan irb melalui terminal anda dengan cara mengetikan `irb` , jika tidak bisa kemungkinan ruby tidak terinstall, silahkan kembali kemateri tentang [penginstallan Ruby](https://ruby-in-bahasa.gitbook.io/project/-LW_W43pTyw3DPRHPPDP/~/drafts/-LWqQpXBONd7AHjh8UDX/primary/persiapan#ruby) jika belum menginstall.
 
@@ -27,7 +27,7 @@ irb(main):002:0>
 
 Sekarang kode ruby sudah dieksekusi dan menghasilkan output `Hello World` dan return value `nil`, Jangan bingung terlebih dahulu dengan hasil eksekusi kode tersebut karena disini lingkup penjelasanya adalah cara menjalankan irb,  hasil eksekusi kode tersebut akan dibahas di materi selanjutnya.
 
-### Cara keluar dari irb
+## Cara keluar dari irb
 
 Untuk keluar dari irb anda bisa mengetikan `exit` atau `quit`, maka dengan salah satu itu kita kembali tampilan terminal semula.
 
