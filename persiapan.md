@@ -60,9 +60,13 @@ rbenv global 2.5.3
 ruby -v
 ```
 
-Saat menjalankan perintah ruby -v maka diterminal pastikan menampilkan informasi yang menyatakan ruby yang terinstall adalah versi 2.5.3, jika informasi tersebut tampil berarti instalasi ruby berhasil dikomputer anda.
+Saat menjalankan perintah ruby -v maka diterminal pastikan menampilkan informasi seperti berikut ini.
 
-Oke, instalasi ruby di Ubuntu selesai dan anda bisa melanjutkan kebagian selanjutnya.
+`ruby -v ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]`
+
+itu artinya adalah telah berhasil terinstall dengan versi 2.5.3. 
+
+Oke, instalasi ruby di Ubuntu selesai dan anda bisa melanjutkan kebagian berikutnya.
 {% endtab %}
 
 {% tab title="MacOs" %}

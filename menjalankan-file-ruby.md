@@ -10,6 +10,5 @@ belajar
 └── rails
     └── 6.0.0
 
-# maka sintags
 ```
 

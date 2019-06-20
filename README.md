@@ -1,17 +1,17 @@
 ---
 description: >-
-  Buku ini ditulis Choirul Mahendrata Harpi, disampaikan dengan menggunakan
-  Bahasa Indonesia, buku ini bersifat open source yang berarti siapapun dapat
-  berkontribusi untuk memperbaiki buku ini.
+  Buku ini disampaikan dengan menggunakan Bahasa Indonesia, buku ini bersifat
+  open source yang berarti siapapun dapat berkontribusi untuk memperbaiki buku
+  ini.
 ---
 
 # Pendahuluan
 
 ## Apa, Kenapa Ruby ?
 
-Ruby adalah bahasa pemrograman open source dinamis berbasis skrip yang berorientasi objek. Tujuan dari ruby adalah menggabungkan kelebihan dari semua bahasa-bahasa pemrograman skrip yang ada di dunia.
+Ruby adalah bahasa pemrograman open source dinamis berbasis skrip yang berorientasi objek. Ruby termasuk high level language sintak mudah dimengerti oleh manusia, produktif, sintaks Ruby elegan, natural, dan mudah dibaca dan ditulis. 
 
-Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, Ruby termasuk high level language sintak mudah dimengerti oleh manusia, produktif, sintaks Ruby elegan, natural, dan mudah dibaca dan ditulis. Banyak software yang menggunakan ruby, [Bukalapak](https://bukalapak.com), [Quipper](https://www.quipper.com/id/), [Binar Academy](https://www.binar.co.id/), [Alo Dokter](https://www.alodokter.com/), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanyalah sebagain kecil saja.
+Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, Banyak startup company yang menggunakan ruby, [Bukalapak](https://bukalapak.com), [Quipper](https://www.quipper.com/id/), [Binar Academy](https://www.binar.co.id/), [Alo Dokter](https://www.alodokter.com/), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanyalah sebagain kecil saja.
 
 ## Untuk siapa buku ini ?
 
