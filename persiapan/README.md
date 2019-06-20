@@ -5,7 +5,7 @@ description: >-
   dibutuhkan untuk mempelajari ruby.
 ---
 
-# Persiapan
+# Persiapan dan Instalasi
 
 ## Text Editor
 
