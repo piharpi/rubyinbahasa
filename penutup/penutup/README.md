@@ -5,7 +5,7 @@ description: >-
   tidak sampai disini saja.
 ---
 
-# Penutup
+# Terimakasih
 
 Buku ini masih mengulas sebagian tentang Ruby, masih banyak hal di Ruby yang belum dibahas. Terimakasih telah membaca buku ini, Saya berharap buku ini dapat bermanfaat untuk anda, juga saya berharap bukan hanya sampai disini tahap belajar anda terus berkembang dan aktif mencari informasi tentang Ruby.
 

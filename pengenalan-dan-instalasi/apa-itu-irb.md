@@ -46,7 +46,7 @@ Contoh lain,
 
 {% code-tabs %}
 {% code-tabs-item title="Terminal" %}
-```text
+```bash
 irb(main):004:0> 20 + 15
 => 35
 ```

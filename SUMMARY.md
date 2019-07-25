@@ -6,19 +6,25 @@
   * [Pesiapan Alat dan Ruby](pengenalan-dan-instalasi/pesiapan-alat-dan-ruby.md)
   * [Menjalankan Ruby](pengenalan-dan-instalasi/menjalankan-file-ruby.md)
   * [Apa itu irb?](pengenalan-dan-instalasi/apa-itu-irb.md)
-* [Number dan Boolean](number-dan-boolean.md)
-* [String](string.md)
-* [Array](array.md)
-* [Hash](hash.md)
-* [Block, Proc, dan Lambda](block-proc-dan-lambda.md)
-* [File I/O](file-i-o.md)
-* [Regular Expression](regular-expression.md)
-* [Object Oriented](object-oriented/README.md)
-  * [Inherithance](object-oriented/inherithance.md)
-  * [Visibility](object-oriented/visibility.md)
-  * [Class](object-oriented/class.md)
-  * [Module](object-oriented/module.md)
-  * [Mixin](object-oriented/mixin.md)
-* [Penutup](penutup/README.md)
-  * [Referensi](penutup/referensi.md)
+
+## MEMULAI DASAR
+
+* [String](memulai-dasar/string.md)
+* [Array](memulai-dasar/array.md)
+* [Hash](memulai-dasar/hash.md)
+* [Block, Proc, dan Lambda](memulai-dasar/block-proc-dan-lambda.md)
+* [Number dan Boolean](memulai-dasar/number-dan-boolean.md)
+* [Regular Expression](memulai-dasar/regular-expression.md)
+* [File I/O](memulai-dasar/file-i-o.md)
+* [Object Oriented](memulai-dasar/object-oriented/README.md)
+  * [Inherithance](memulai-dasar/object-oriented/inherithance.md)
+  * [Visibility](memulai-dasar/object-oriented/visibility.md)
+  * [Class](memulai-dasar/object-oriented/class.md)
+  * [Module](memulai-dasar/object-oriented/module.md)
+  * [Mixin](memulai-dasar/object-oriented/mixin.md)
+
+## PENUTUP
+
+* [Terimakasih](penutup/penutup/README.md)
+  * [Referensi](penutup/penutup/referensi.md)
 
