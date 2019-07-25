@@ -17,7 +17,7 @@ Ada beberapa jenis software terminal, yaitu [Tmux](https://github.com/tmux/tmux/
 
 ## Ruby
 
-Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika kamu mempunyai cara tersendiri untuk melakukan instalasi ruby, kamu dapat mengikuti cara kamu sendiri. Namun, jika tidak kamu juga dapat mengikuti cara instalasi berikut ini sesuai dengan sistem operasi yang kamu gunakan. 
+Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika kamu mempunyai cara tersendiri untuk melakukan instalasi ruby, kamu bisa mengikuti cara kamu sendiri. Namun, jika tidak kamu bisa mengikuti cara instalasi berikut ini pilih sesuai dengan sistem operasi yang kamu gunakan. 
 
 {% tabs %}
 {% tab title="Ubuntu" %}

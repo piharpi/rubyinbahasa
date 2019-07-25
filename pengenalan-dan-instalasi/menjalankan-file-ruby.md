@@ -1,3 +1,7 @@
+---
+description: Mengetahui cara menjalankan file ruby melalui terminal atau cli.
+---
+
 # Menjalankan Ruby
 
 Untuk menjalankan file Ruby, buka terminal kesayangan kamu , arahkan ke direktori yang terdapat file ruby,  dan ketikan `$ ruby nama_file.rb` berikut contoh nya.
