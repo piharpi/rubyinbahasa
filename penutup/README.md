@@ -1,8 +1,8 @@
 ---
 description: >-
-  Saya ucapkan selamat kepada Anda, karena telah membaca halaman ini semoga
-  tidak mengalami kesulitan dalam mengikuti materi buku ini, terus bergerak dan
-  berjuang agar tidak sampai disini saja.
+  Saya ucapkan selamat, karena telah membaca halaman ini semoga tidak mengalami
+  kesulitan dalam mengikuti materi buku ini, terus bergerak dan berjuang agar
+  tidak sampai disini saja.
 ---
 
 # Penutup
@@ -11,9 +11,8 @@ Buku ini masih mengulas sebagian tentang Ruby, masih banyak hal di Ruby yang bel
 
 Berikut beberapa kata kunci \(keyword\) yang dapat anda cari diinternet untuk menambah wawasan Ruby:
 
-* oop
-* irb \(Interactive Ruby Shell\)
-* Api
+* OOP
+* IRB \(Interactive Ruby Shell\)
 
 ### Kontribusi
 

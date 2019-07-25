@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Pendahuluan](README.md)
-* [Pengenalan dan Instalasi](pengenalan-dan-instalasi/README.md)
-  * [Pengenalan Bahasa Ruby](pengenalan-dan-instalasi/pengenalan-bahasa-ruby.md)
-  * [Apa itu irb ?](pengenalan-dan-instalasi/apa-itu-irb.md)
-  * [Menjalankan File Ruby](pengenalan-dan-instalasi/menjalankan-file-ruby.md)
-* [Memulai](memulai.md)
+* [Konvensi Penulisan](konvensi-penulisan.md)
+* [Pengenalan Bahasa Ruby](pengenalan-dan-instalasi/README.md)
+  * [Pesiapan Alat dan Ruby](pengenalan-dan-instalasi/pesiapan-alat-dan-ruby.md)
+  * [Menjalankan Ruby](pengenalan-dan-instalasi/menjalankan-file-ruby.md)
+  * [Apa itu irb?](pengenalan-dan-instalasi/apa-itu-irb.md)
 * [Number dan Boolean](number-dan-boolean.md)
 * [String](string.md)
 * [Array](array.md)

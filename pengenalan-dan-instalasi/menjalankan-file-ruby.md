@@ -1,24 +1,19 @@
-# Menjalankan File Ruby
+# Menjalankan Ruby
 
-Untuk menjalankan file Ruby, buka terminal kesayangan anda , arahkan ke direktori yang terdapat file ruby,  dan ketikan `ruby nama_file.rb` berikut contoh lebih lanjut.
+Untuk menjalankan file Ruby, buka terminal kesayangan kamu , arahkan ke direktori yang terdapat file ruby,  dan ketikan `$ ruby nama_file.rb` berikut contoh nya.
 
-```text
-belajar
-├── ruby
-│   └── ritual
-│       └── hello_world.rb
-└── javascript
-```
+Disini saya sudah membuat file yang bernama  `hello_world.rb` yang berisi perintah sederhana yaitu `puts "Hello World"` .
 
-Saya akan menuju folder `ritual` yang terdapat file `hello_world.rb`
-
-```text
-$ cd belajar/ruby/ritual
+{% code-tabs %}
+{% code-tabs-item title="Terminal" %}
+```bash
 $ cat hello_world.rb
 puts "Hello World"
 $ ruby hello_world.rb
-$ Hello World
+Hello World
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
-Mudah bukan?, jika kamu sudah terbiasa dengan syntax linux dasar seperti `cd` untuk berpindah folder itu akan tampak memudahkan kamu untuk menjalankan file ruby, Oke siap untuk belajar ?.
+Hello World ditampilkan, Mudah bukan?,  sedikit penjelasan `cat` adalah perintah untuk melihat isi file \(abaikan saja, itu saya hanya ingin melihatkan isi file saya seperti itu\).
 
