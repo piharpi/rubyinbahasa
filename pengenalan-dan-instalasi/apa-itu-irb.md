@@ -36,5 +36,5 @@ Untuk keluar dari irb anda bisa mengetikan `exit` atau `quit`, maka dengan salah
 irb(main):002:0> exit
 ```
 
-Itulah penjelasan tentang irb, semoga tidak ada kesulitan dalam memahami irb.
+Itulah penjelasan tentang irb, semoga tidak ada kesulitan dalam memahami irb. 
 

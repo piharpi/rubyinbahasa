@@ -1,11 +1,11 @@
 ---
 description: >-
-  Sebelum kita mempelajari ruby kita persiapkan alat-alat yang dibutuhkan, anda
-  bisa melewatkan bab ini jika memang anda benar yakin sudah memiliki alat yang
+  Sebelum kita mempelajari bahasa Ruby kita menginstall alat-alat yang
+  dibutuhkan, anda bisa melewatkan bagian ini jika sudah memiliki alat yang
   dibutuhkan untuk mempelajari ruby.
 ---
 
-# Persiapan dan Instalasi
+# Pengenalan dan Instalasi
 
 ## Text Editor
 
@@ -112,4 +112,6 @@ Unduh Ruby installer [disini](https://rubyinstaller.org/downloads/) yang bertuli
 Setelah itu klik _"install"_ dan tunggu beberapa menit, dan Selesai !
 {% endtab %}
 {% endtabs %}
+
+
 

@@ -11,8 +11,8 @@ Buku ini masih mengulas sebagian tentang Ruby, masih banyak hal di Ruby yang bel
 
 Berikut beberapa kata kunci \(keyword\) yang dapat anda cari diinternet untuk menambah wawasan Ruby:
 
-* OOP
-* Irb
+* oop
+* irb \(Interactive Ruby Shell\)
 * Api
 
 ### Kontribusi

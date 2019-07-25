@@ -9,9 +9,9 @@ description: >-
 
 ## Apa, Kenapa Ruby ?
 
-Ruby adalah bahasa pemrograman open source dinamis berbasis skrip yang berorientasi objek. Ruby termasuk high level language sintak mudah dimengerti oleh manusia, produktif, sintaks Ruby elegan, natural, dan mudah dibaca dan ditulis. 
+Ruby adalah bahasa pemrograman open source yang dinamis berbasis skrip yang berorientasi objek. Ruby termasuk _high level language_ sintak mudah dimengerti oleh manusia, produktif, sintak Ruby elegan, natural, dan mudah dibaca dan ditulis. 
 
-Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, Banyak startup company yang menggunakan ruby, [Bukalapak](https://bukalapak.com), [Quipper](https://www.quipper.com/id/), [Binar Academy](https://www.binar.co.id/), [Alo Dokter](https://www.alodokter.com/), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanyalah sebagain kecil saja.
+Mempelajari bahasa Ruby bukanlah lagi keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, dari sisi pengguna banyak startup company yang menggunakan ruby, [Bukalapak](https://stackshare.io/bukalapak/bukalapak), [Quipper](https://www.quipper.com/id/), [Binar Academy](https://www.binar.co.id/), [GoJek](https://stackshare.io/go-jek/go-jek), [Alo Dokter](https://www.alodokter.com/), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanyalah sebagain kecil saja.
 
 ## Untuk siapa buku ini ?
 
