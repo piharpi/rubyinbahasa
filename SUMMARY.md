@@ -7,7 +7,7 @@
   * [Menjalankan Ruby](pengenalan-dan-instalasi/menjalankan-file-ruby.md)
   * [Apa itu irb?](pengenalan-dan-instalasi/apa-itu-irb.md)
 
-## MEMULAI DASAR
+## RUBY FUNDAMENTALS <a id="memulai-dasar"></a>
 
 * [String](memulai-dasar/string.md)
 * [Array](memulai-dasar/array.md)
