@@ -26,11 +26,17 @@ Agar anda dapat menyelesaikan buku ini dengan baik, sebaiknya anda mengikuti atu
 * **Namun,** bila mana anda benar-benar memang sudah familiar dengan bagian tertentu anda bisa langsung melewatkan bagian tersebut, namun anda harus kembali lagi kemateri tersebut, bila mana dibutuhkan.
 * **Buat catatan** tentang pertanyaan apa pun yang muncul, hal-hal yang tidak anda pahami, dan semua hal lain yang menurut anda menarik atau penting.
 
-## Kontribusi
+## Kontribusi 
 
 Bantu memperbaiki buku ini untuk orang lain: Setiap kali menemukan sesuatu yang tidak jelas atau hilang, silakan beri tahu atau mengajukan masalah ini pada github issue. \(Ini juga membantu Anda mengenal GitHub, yang nantinya akan banyak digunakan.\)
 
 #### Daftar Kontributor 
 
 [@piharpi](https://github.com/piharpi) Choirul Mahendrata Harpi
+
+## Lisensi
+
+Ruby in Bahasa is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).  
+  
+Based on a work at [https://rubyist.piharpi.com/](https://rubyist.piharpi.com/).
 
