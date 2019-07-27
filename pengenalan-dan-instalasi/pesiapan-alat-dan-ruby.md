@@ -80,7 +80,7 @@ Saat menjalankan perintah ruby -v maka diterminal pastikan menampilkan informasi
 
 `ruby -v ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]`
 
-itu artinya adalah telah berhasil terinstall dengan versi 2.5.3. 
+itu artinya kamu telah berhasil menginstall ruby dengan versi `2.5.3`. 
 
 Oke, instalasi ruby di Ubuntu selesai dan kamu bisa melanjutkan kebagian berikutnya.
 {% endtab %}
