@@ -1,8 +1,8 @@
 ---
 description: >-
   Buku ini disampaikan dengan menggunakan Bahasa Indonesia, buku ini bersifat
-  open source yang berarti siapapun dapat berkontribusi untuk memperbaiki buku
-  ini.
+  open source, dan dibawah lisensi creative commons yang berarti siapapun dapat
+  berkontribusi dan menggunakan.
 ---
 
 # Pendahuluan
@@ -29,10 +29,6 @@ Agar anda dapat menyelesaikan buku ini dengan baik, sebaiknya anda mengikuti atu
 ## Kontribusi 
 
 Bantu memperbaiki buku ini untuk orang lain: Setiap kali menemukan sesuatu yang tidak jelas atau hilang, silakan beri tahu atau mengajukan masalah ini pada github issue. \(Ini juga membantu Anda mengenal GitHub, yang nantinya akan banyak digunakan.\)
-
-#### Daftar Kontributor 
-
-[@piharpi](https://github.com/piharpi) Choirul Mahendrata Harpi
 
 ## Lisensi
 

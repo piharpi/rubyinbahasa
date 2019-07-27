@@ -26,5 +26,7 @@
 ## PENUTUP
 
 * [Terimakasih](penutup/penutup/README.md)
+  * [Kontributor](penutup/penutup/kontributor.md)
   * [Referensi](penutup/penutup/referensi.md)
+* [Lisensi](penutup/lisensi.md)
 
