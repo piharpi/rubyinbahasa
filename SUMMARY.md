@@ -22,6 +22,7 @@
   * [Class](memulai-dasar/object-oriented/class.md)
   * [Module](memulai-dasar/object-oriented/module.md)
   * [Mixin](memulai-dasar/object-oriented/mixin.md)
+* [Libraries](memulai-dasar/libraries.md)
 
 ## PENUTUP
 
