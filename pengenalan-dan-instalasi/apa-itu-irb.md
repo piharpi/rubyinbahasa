@@ -6,6 +6,8 @@ description: 'Mengenal apa itu irb, cara menggunakan irb dan mengetahui hal-hal 
 
 Interactive Ruby Shell juga biasa dipanggil irb terinstall otomatis pada saat kita menginstall ruby, fungsinya sebagai area menjalankan kode ruby tanpa harus menyimpan kedalam sebuah file atau biasa dikenal dengan sandbox / playground, sehingga kita dapat langsung menjalankan kode ruby yang kita tullis, biasanya irb ini dimanfaatkan untuk eksperiment atau hanya mencoba beberapa baris kode ruby saja.
 
+Sesuai namanya Interactive, ketika kamu menuliskan kode ruby, komputermu akan memprosesnya dan menampilkan hasilnya.
+
 ## Cara menjalankan irb
 
 Jalankan irb melalui terminal kamu dengan cara mengetikan `irb` , jika tidak bisa kemungkinan ruby tidak terinstall, silahkan kembali kepembahasan tentang [installasi Ruby](https://ruby-in-bahasa.gitbook.io/project/-LW_W43pTyw3DPRHPPDP/~/drafts/-LWqQpXBONd7AHjh8UDX/primary/persiapan#ruby) jika belum menginstall.
