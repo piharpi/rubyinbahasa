@@ -6,7 +6,7 @@ description: >-
 
 # Pengenalan Bahasa Ruby
 
-
+Sebelum kita mempelajari pengkodean dalam bahasa ruby alangkah baiknya kita mengenal dahulu perkembangan ruby dan  
 
 
 
