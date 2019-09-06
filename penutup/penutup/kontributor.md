@@ -8,5 +8,5 @@ Terimakasih kepada semua teman-teman yang peduli dan berkontribusi dalam buku in
 
 #### Daftar Kontributor 
 
-[@piharpi](https://github.com/piharpi) Choirul Mahendrata Harpi
+[@piharpi](https://github.com/piharpi) Mahendrata Harpi
 

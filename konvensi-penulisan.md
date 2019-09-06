@@ -7,7 +7,7 @@ description: >-
 
 # Konvensi Penulisan
 
-Pada buku ini akan sering bertemu dengan _code block_ atau sebuah blok kode yang dalam buku ini mempunyai 2 jenis code block.
+Pada buku ini akan sering bertemu dengan _code block_ atau sebuah blok kode didalam buku ini mempunyai 2 jenis code block.
 
 * Sebagai perintah Terminal
 * Sebagai potongan kode Ruby
