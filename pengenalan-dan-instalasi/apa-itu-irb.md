@@ -44,9 +44,9 @@ irb(main):002:0>
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Sekarang kode ruby sudah dieksekusi dan menghasilkan output `Hello World` dan return value `nil`, jangan bingung akan kita bahas sekarang,  `puts` adalah kependekan dari "put string" adalah perintah untuk menampilkan sesuatu dilayar.
+Sekarang kode ruby sudah dieksekusi dan menghasilkan output `Hello World` dan return value `nil`, jangan bingung nanti akan kita ulas lebih rinci,  `puts` adalah kependekan dari "put string" adalah perintah untuk menampilkan sesuatu dilayar.
 
-Jika kita amati pada hasil eksekusi diatas terdapat `Hello World` yang dimana sebagai hasil output, dan tanda `=>`  ini  adalah tanda _return value_ yang bernilai `nil` ,  pada ruby hasil output dan nilai kembalian berbeda, pada contoh ini puts adalah sebuah perintah yang output yang menjadi string dan mengembalikan nilai hampa atau `nil`. 
+Jika kita amati pada hasil eksekusi diatas terdapat `Hello World` yang dimana sebagai hasil output, dan tanda `=>`  ini  adalah tanda _return value/_ nilai __kembalian __yang bernilai `nil` ,  pada ruby hasil output dan _return value_ berbeda, pada contoh ini puts adalah sebuah perintah yang output yang menjadi string dan mengembalikan nilai hampa atau `nil`. 
 
 Contoh lain,
 
