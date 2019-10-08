@@ -24,6 +24,10 @@
   * [Mixin](memulai-dasar/object-oriented/mixin.md)
 * [Libraries](memulai-dasar/libraries.md)
 
+## ADVANCED TOPIC
+
+* [Magic Comment](advanced-topic/magic-comment.md)
+
 ## PENUTUP
 
 * [Terimakasih](penutup/penutup/README.md)
