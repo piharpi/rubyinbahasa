@@ -16,11 +16,11 @@ Matz mengatakan “trying to make Ruby natural, not simple,”  yang berarti bah
 
 Matz juga mengatakan Ruby dirancang untuk meningkatkan produktifitas para programmer dan programmer menikmati dalam menggunakanya dan juga bahagia, Dia menekankan bahwa desain sistem perlu menekankan kepada manusia, bukan komputer.
 
-Bisa dillihat pada header situs [https://www.ruby-lang.org](https://www.ruby-lang.org) terdapat logo.
+![](../.gitbook/assets/image%20%281%29.png)
 
-![RUBY SAHABAT TERBAIK PROGRAMMER](../.gitbook/assets/image%20%281%29.png)
+Bisa dillihat pada header situs resmi bahasa Ruby [https://www.ruby-lang.org](https://www.ruby-lang.org), menyatakan Ruby adalah sahabat programmer. 
 
-### Melihat semua sebagai Object
+### Ruby Melihat semua sebagai Object
 
   
   
