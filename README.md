@@ -9,7 +9,7 @@ description: >-
 
 ## Apa, Kenapa Ruby ?
 
-Ruby adalah bahasa pemrograman open source yang dinamis berbasis skrip yang berorientasi objek. Ruby termasuk _high level language_ sintak mudah dimengerti oleh manusia, produktif, sintak Ruby elegan, natural, dan mudah dibaca dan ditulis. 
+Ruby adalah bahasa pemrograman open source yang dinamis berbasis skrip yang berorientasi objek. Ruby termasuk _high level language_ sintak mudah dimengerti oleh manusia, produktif, sintak Ruby elegan, natural, dan mudah dibaca dan ditulis, dan tentu saja sudah tersedianya komunitas Ruby didunia termasuk di [Indonesia](https://t.me/ruby_id) . 
 
 Mempelajari bahasa Ruby bukanlah keraguan, bahasa yang open source banyak kontributor diberbagai negara yang terus meningkatkan kualitas bahasa ini, dari sisi pengguna banyak startup company yang menggunakan ruby, [Bukalapak](https://stackshare.io/bukalapak/bukalapak), [Binar Academy](https://www.binar.co.id/), [GoJek](https://stackshare.io/go-jek/go-jek), [Alo Dokter](https://www.alodokter.com/), [Basecamp](https://basecamp.com/), [GitHub](https://github.com/), [Shopify](https://shopify.com/), [Airbnb](https://airbnb.com/), [Twitch](https://twitch.tv/), [SoundCloud](https://soundcloud.com/), [Hulu](https://hulu.com/), [Zendesk](https://zendesk.com/), [Square](https://square.com/), [Cookpad](https://cookpad.com/), itu hanyalah sebagain kecil saja.
 
