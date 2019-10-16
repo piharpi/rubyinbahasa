@@ -137,7 +137,7 @@ Unduh Ruby installer [disini](https://rubyinstaller.org/downloads/) yang bertuli
 * [x] _Add Ruby executables to your PATH_
 * [x] _Associate .rb and .rbw files with this Ruby installation_
 
-Setelah itu klik _"install"_ dan tunggu beberapa menit, dan Selesai !
+Setelah itu klik _"install"_ dan tunggu beberapa menit, dan Selesai!
 {% endtab %}
 {% endtabs %}
 
