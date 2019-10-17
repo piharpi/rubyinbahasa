@@ -19,5 +19,5 @@ Hello World
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Hello World ditampilkan, Mudah bukan?,  sedikit penjelasan `cat` adalah perintah untuk melihat isi file \(abaikan saja, itu saya hanya ingin melihatkan isi file saya seperti itu\).
+Hello World ditampilkan, Mudah bukan?,  sedikit penjelasan `cat` adalah perintah untuk melihat isi file \(abaikan saja, tujuan penulis hanya ingin melihatkan isi file\).
 

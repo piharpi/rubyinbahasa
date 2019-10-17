@@ -9,8 +9,9 @@
 
 ## RUBY FUNDAMENTALS <a id="memulai-dasar"></a>
 
-* [String](memulai-dasar/string.md)
-* [Array](memulai-dasar/array.md)
+* [Strings](memulai-dasar/strings.md)
+* [Symbols](memulai-dasar/symbols.md)
+* [Arrays](memulai-dasar/arrays.md)
 * [Hash](memulai-dasar/hash.md)
 * [Block, Proc, dan Lambda](memulai-dasar/block-proc-dan-lambda.md)
 * [Number dan Boolean](memulai-dasar/number-dan-boolean.md)
