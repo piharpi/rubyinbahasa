@@ -3,7 +3,7 @@
 **String** adalah sekumpulan dari sebuah karakter, penulisan string ini dengan cara menggunakan tanda petik\("..."\) ****dan bisa juga menggunakan _****_tanda petik tunggal\('...'\).
 
 {% code-tabs %}
-{% code-tabs-item title="ex\_strings.rb" %}
+{% code-tabs-item title="example\_strings.rb" %}
 ```ruby
 # Tanda petik
 puts "Semangat belajar ruby!!"
@@ -33,7 +33,7 @@ puts '"Merdeka atau mati!" seru Bung Tomo dalam pidatonya.'
 Bisakah semisalnya saya ingin menggunakan tanda petik tunggal untuk menghapit tanda petik tunggal juga ?, Bisa
 
 {% code-tabs %}
-{% code-tabs-item title="escape\_charcter.rb" %}
+{% code-tabs-item title="escape\_character.rb" %}
 ```ruby
 # Tanda petik didalam tanda petik.
 puts "\"Merdeka atau Mati!\", seru Bung Tomo dalam pidatonya."
