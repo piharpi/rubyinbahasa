@@ -40,6 +40,7 @@
 ## ADVANCED TOPIC
 
 * [Magic Comment](advanced-topic/magic-comment.md)
+* [Debugging](advanced-topic/debugging.md)
 
 ## PENUTUP
 
