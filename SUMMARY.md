@@ -9,6 +9,18 @@
 
 ## RUBY FUNDAMENTALS <a id="memulai-dasar"></a>
 
+* [Materi Dasar](memulai-dasar/materi-dasar/README.md)
+  * [Method puts](memulai-dasar/materi-dasar/method-puts.md)
+  * [Method print](memulai-dasar/materi-dasar/method-print.md)
+  * [Method p](memulai-dasar/materi-dasar/method-p.md)
+  * [Arithmetic](memulai-dasar/materi-dasar/arithmetic.md)
+  * [Comments](memulai-dasar/materi-dasar/comments.md)
+  * [Variable](memulai-dasar/materi-dasar/variable.md)
+  * [Method gets dan chomp](memulai-dasar/materi-dasar/method-gets-dan-chomp.md)
+  * [Object Methods](memulai-dasar/materi-dasar/object-methods.md)
+  * [Constants](memulai-dasar/materi-dasar/constants.md)
+  * [Return value dan nil object](memulai-dasar/materi-dasar/return-value-dan-nil-object.md)
+  * [String Interpolation](memulai-dasar/materi-dasar/string-interpolation.md)
 * [Strings](memulai-dasar/strings.md)
 * [Symbols](memulai-dasar/symbols.md)
 * [Arrays](memulai-dasar/arrays.md)

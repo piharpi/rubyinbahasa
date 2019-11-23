@@ -14,15 +14,13 @@ Pada buku ini akan sering bertemu dengan _code block_ atau sebuah blok kode dida
 
 ### Perintah Terminal
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```bash
 $ cd belajar # tanda $(dollar sign) tidak perlu dituliskan
 $ touch hello.rb
 $ exit
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Pada _code block_ berjudul `Terminal` maksud penulis bahwa perintah didalam _code block_ diatas harus dieksekusi didalam terminal.
 
@@ -33,16 +31,16 @@ Baris `2` adalah perintah untuk membuat sebuah file `hello.rb` .
 
 ### Kode Ruby
 
-{% code-tabs %}
-{% code-tabs-item title="main.rb" %}
+{% tabs %}
+{% tab title="main.rb" %}
 ```ruby
 require_relative 'user.rb'
 
 usr = User.new('Harpi', 'piharpi', 'justharpi@gmail', 'secret')
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="user.rb" %}
+{% tab title="user.rb" %}
 ```ruby
 # User class didalam file user.rb
 class User
@@ -61,8 +59,8 @@ class User
   end
 end
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 Code Block diatas terdapat `main.rb` \(bewarna merah tab aktif\) dan `user.rb` kedua file tersebut berkaitan, terkadang saya hanya menyematkan satu file saja, pada kasus ini saya menyematkan dua file untuk memberikan contoh.
 

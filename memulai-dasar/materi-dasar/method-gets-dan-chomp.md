@@ -1,0 +1,2 @@
+# Method gets dan chomp
+

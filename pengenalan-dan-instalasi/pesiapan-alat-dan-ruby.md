@@ -23,8 +23,7 @@ Versi ruby yang digunakan pada buku ini adalah `ruby 2.5.3` jika kamu mempunyai 
 {% tab title="Ubuntu" %}
 Pertama, install terlebih dahulu dependency, ini adalah bagian-bagian yang dibutuhkan untuk melanjutkan instalasi berikutnya.
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
@@ -33,15 +32,13 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 sudo apt-get update
 sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev nodejs yarn
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Selanjutnya, kita akan menggunakan [rbenv](https://github.com/rbenv/rbenv) untuk menginstall ruby. rbenv ini alat yang dibuat khusus untuk menginstall ruby dan manajemen versi ruby di komputer kita. Dengan adanya rbenv ini kita bisa memiliki lebih dari satu versi ruby yang terinstall.
 
 Langkah pertama adalah instalasi rbenv itu sendiri. Jalankan perintah berikut ini.
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 cd
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
@@ -49,32 +46,27 @@ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 exec $SHELL
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Setelah itu, install ruby-build. rbenv membutuhkan ruby-build ini untuk melakukan build terhadap source ruby. Jalankan perintah di bawah untuk menginstallnya.
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
 exec $SHELL
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Sekarang kita menginstall Ruby. Kita menggunakan versi 2.5.3, Caranya sebagai berikut
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 rbenv install 2.5.3
 rbenv global 2.5.3
 ruby -v
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Saat menjalankan perintah ruby -v maka diterminal pastikan menampilkan informasi seperti berikut ini.
 
@@ -88,18 +80,15 @@ Oke, instalasi ruby di Ubuntu selesai dan kamu bisa melanjutkan kebagian berikut
 {% tab title="MacOs" %}
 Di MacOs kita menggunakan [rbenv](https://github.com/rbenv/rbenv) sebagai alat yang dibuat khusus untuk menginstall ruby dan manajemen versi ruby di komputer kita, namun sebelum itu kita menginstall [Homebrew](https://brew.sh/), brew ini dibutuhkan untuk menginstall rbenv yang tidak tersedia di Apple.
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Selanjutnya, jika instalasi brew selesai, install rbenv dan ruby-build menggunakan perintah di bawah ini.
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 brew install rbenv ruby-build
 
@@ -107,21 +96,18 @@ brew install rbenv ruby-build
 echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
 source ~/.bash_profile
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Langkah terakhir menginstall ruby. Kita menggunakan versi, 2.5.3
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```text
 # Install Ruby
 rbenv install 2.5.3
 rbenv global 2.5.3
 ruby -v
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Saat menjalankan perintah `ruby -v` maka diterminal pastikan menampilkan informasi yang menyatakan ruby yang terinstall adalah versi 2.5.3, jika informasi tersebut tampil berarti instalasi ruby telah berhasil dikomputermu.
 

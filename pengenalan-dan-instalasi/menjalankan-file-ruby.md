@@ -8,16 +8,14 @@ Untuk menjalankan file Ruby, buka terminal kesayangan kamu , arahkan ke direktor
 
 Disini saya sudah membuat file yang bernama  `hello_world.rb` yang berisi perintah sederhana yaitu `puts "Hello World"` .
 
-{% code-tabs %}
-{% code-tabs-item title="Terminal" %}
+{% code title="Terminal" %}
 ```bash
 $ cat hello_world.rb
 puts "Hello World"
 $ ruby hello_world.rb
 Hello World
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Hello World ditampilkan, Mudah bukan?,  sedikit penjelasan `cat` adalah perintah untuk melihat isi file \(abaikan saja, tujuan penulis hanya ingin melihatkan isi file\).
 
