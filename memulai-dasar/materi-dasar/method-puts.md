@@ -18,7 +18,6 @@ puts "Bagaimana kabarmu?"
 $ ruby contoh_puts.rb
 Halo Dunia!
 Bagaimana kabarmu?
-=> nil
 ```
 {% endcode %}
 {% endtab %}
@@ -50,13 +49,12 @@ $ ruby contoh_puts_nil_object.rb
 
 
 5
-=> nil
 ```
 {% endcode %}
 {% endtab %}
 {% endtabs %}
 
-Jangan kuwatir juga nanti kita akan membahas tentang [nil object](return-value-dan-nil-object.md) dan [Arrays](../arrays.md) collection, dibab ini saya hanya ingin menunjukan bagaimana mengoutputkan sebuah nilai dengna menggunakan method puts.
+Jangan kuwatir nanti juga kita akan membahas tentang [nil object](return-value-dan-nil-object.md) dan [Arrays](../arrays.md) collection, dibab ini saya hanya ingin menunjukan bagaimana mengoutputkan sebuah nilai dengan menggunakan method puts.
 
 Next ya ? semoga dapat dipahami.
 
