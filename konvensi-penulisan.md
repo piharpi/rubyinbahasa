@@ -32,15 +32,8 @@ Baris `2` adalah perintah untuk membuat sebuah file `hello.rb` .
 ### Kode Ruby
 
 {% tabs %}
-{% tab title="main.rb" %}
-```ruby
-require_relative 'user.rb'
-
-usr = User.new('Harpi', 'piharpi', 'justharpi@gmail', 'secret')
-```
-{% endtab %}
-
 {% tab title="user.rb" %}
+{% code title="user.rb" %}
 ```ruby
 # User class didalam file user.rb
 class User
@@ -59,12 +52,37 @@ class User
   end
 end
 ```
+{% endcode %}
+{% endtab %}
+
+{% tab title="main.rb" %}
+{% code title="main.rb" %}
+```ruby
+require_relative 'user.rb'
+
+usr = User.new('Harpi', 'piharpi', 'justharpi@gmail', 'secret')
+
+puts user.info
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Result" %}
+{% code title="Terminal" %}
+```bash
+$ ruby main.rb
+Halo nama saya Harpi, hubungi saya di justharpi@gmail
+=> nil
+```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
-Code Block diatas terdapat `main.rb` \(bewarna merah tab aktif\) dan `user.rb` kedua file tersebut berkaitan, terkadang saya hanya menyematkan satu file saja, pada kasus ini saya menyematkan dua file untuk memberikan contoh.
+Code Block diatas terdapat `main.rb`  dan `user.rb` kedua file tersebut berkaitan, terkadang saya hanya menyematkan satu file saja, pada kasus ini saya menyematkan dua file untuk memberikan contoh.
 
-Pada code block tersebut berisi kode ruby dari file `main.rb` karena sedang aktif coba klik bagian `user.rb` maka isi code block juga akan berubah, dan sisi kiri code block terdapat line number yang mempermudah untuk menunjuk kode ruby yang ingin penulis jelaskan.
+Pada code block tersebut berisi kode ruby dari file `user.rb` karena sedang aktif coba klik bagian `main.rb` maka isi code block juga akan berubah, dan sisi kiri code block terdapat line number yang mempermudah untuk menunjuk kode ruby yang ingin penulis jelaskan.
+
+Yang terakhir terdapat tab **Result** menampilkan informasi yang dihasilkan dari eksekusi kode program ruby.
 
 Contoh penunjuk baris :  
 Baris `13` pada file `user.rb` adalah sebuah method `info` yang berfungsi untuk mengembalikan informasi dari `Class User`.    
