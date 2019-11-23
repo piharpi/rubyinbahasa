@@ -48,7 +48,7 @@ Bisa di lihat perbedaanya diatas antara tab **Result print** dan **Results puts*
 
 Keduanya memiki fungsi yang sama yaitu mengoutputkan, namun secara penggaunaan tergantung pada kebutuhan kita, apakah kita membutuhkan baris baru atau tidak.
 
-Contoh lain.
+**Contoh lain.**
 
 {% tabs %}
 {% tab title="contoh\_print\_string.rb" %}
@@ -92,7 +92,7 @@ Selamat berbelanja
 {% endtab %}
 {% endtabs %}
 
-Kamu juga dapat menggunakan escape character `\n` untuk membuat baris baru pada method `print` .
+Kamu juga dapat menggunakan _escape sequences_ `\n` untuk membuat baris baru pada method `print` .
 
 {% tabs %}
 {% tab title="contoh\_print\_newline.rb" %}
