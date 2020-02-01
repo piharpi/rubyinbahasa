@@ -1,6 +1,6 @@
 # Terimakasih
 
-Saya ucapkan selamat kepada teman-teman yang telah berhasil menyelesaikan buku ini, semoga tidak mengalami kesulitan dalam mengikuti materi buku ini, terus bergerak mencari informasi dan berjuang.
+Saya ucapkan selamat kepada teman-teman yang telah berhasil menyelesaikan buku ini, semoga ilmu dalam buku ini bisa diambil manfaatnya, terus bergerak mencari informasi dan berjuang.
 
 Buku ini masih mengulas sebagian tentang Ruby, masih banyak informasi di Ruby yang belum dibahas. Terimakasih telah membaca buku ini, Saya harap buku ini dapat bermanfaat untuk kalian, dan juga bukan hanya sampai disini tahap belajar kalian terus berkembang dan aktif mencari informasi tentang Ruby.
 

@@ -115,5 +115,5 @@ yah aku dibawah
 {% endtab %}
 {% endtabs %}
 
-Namun cara diatas tidak direkomendasikan karena tidak efektif dan tujuan print sendiri adalah mencetak pada console tanpa baris baru /newline.
+Namun cara diatas tidak efektif dan tujuan `print` sendiri adalah mencetak pada console tanpa baris baru/newline.
 

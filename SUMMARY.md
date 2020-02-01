@@ -40,6 +40,7 @@
 ## ADVANCED TOPIC
 
 * [Magic Comment](advanced-topic/magic-comment.md)
+* [Duck Typing](advanced-topic/duck-typing.md)
 * [Debugging](advanced-topic/debugging.md)
 
 ## PENUTUP
