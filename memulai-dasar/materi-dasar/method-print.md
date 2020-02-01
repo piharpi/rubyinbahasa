@@ -1,6 +1,6 @@
 # Method print
 
-Hampir sama seperti puts method tak lain tak bukan print ini  merupakan method yang digunakan untuk mengevaluasi dan menampilkan pada layar console/terminal, **namun** `print` **memiliki perbedaan** yaitu tidak membuat baris baru pada saat mencetak pada layar, perhatikan kode berikut ini.
+Hampir sama seperti puts method tak lain tak bukan print ini merupakan method yang digunakan untuk mengevaluasi dan menampilkan pada layar console/terminal, **namun** `print` **memiliki perbedaan** yaitu tidak membuat baris baru pada saat mencetak pada layar, perhatikan kode berikut ini.
 
 {% tabs %}
 {% tab title="contoh\_print\_string.rb" %}
@@ -115,5 +115,5 @@ yah aku dibawah
 {% endtab %}
 {% endtabs %}
 
-Namun cara diatas tidak efektif dan tujuan `print` sendiri adalah mencetak pada console tanpa baris baru/newline.
+Namun cara diatas tidak efektif dan tujuan `print` adalah mencetak pada console tanpa baris baru/newline.
 
