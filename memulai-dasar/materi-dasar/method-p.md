@@ -22,3 +22,27 @@ Ruby is Dynamic Programming Language
 
 Lihat dari hasil diatas `puts` menghasilkan output tanpa tanda petik, sedangkan `p` disertai dengan tanda petik, itu menginforamasikan bahwa nilai yang diinputkan oleh `p` bertipe adalah [String](../strings.md).
 
+Contoh lain 
+
+{% tabs %}
+{% tab title="Ruby" %}
+```ruby
+puts [1, 2, nil, nil, 5] 
+p [1, 2, nil, nil, 5]
+```
+{% endtab %}
+
+{% tab title="Output" %}
+```bash
+1
+2
+
+
+5
+[1, 2, nil, nil, 5]
+```
+{% endtab %}
+{% endtabs %}
+
+puts memanggil sebuah fungsi to\_is sedangkan p referenced terhadap fungsi inspect
+
