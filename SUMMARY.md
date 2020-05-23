@@ -9,7 +9,7 @@
 
 ## RUBY FUNDAMENTALS <a id="memulai-dasar"></a>
 
-* [Materi Dasar](memulai-dasar/materi-dasar/README.md)
+* [Basic](memulai-dasar/materi-dasar/README.md)
   * [Method puts](memulai-dasar/materi-dasar/method-puts.md)
   * [Method print](memulai-dasar/materi-dasar/method-print.md)
   * [Method p](memulai-dasar/materi-dasar/method-p.md)
